@@ -27,7 +27,7 @@ O projeto utiliza:
 ---
 ## Rodando o Projeto:
 
-### com npm (usa scripts do package.json)
+### com npm
 - npm start
   
 ### ou com yarn
